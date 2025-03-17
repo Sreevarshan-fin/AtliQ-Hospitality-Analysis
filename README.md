@@ -17,7 +17,9 @@ Mumbai generated the highest revenue (₹668M), followed by Hyderabad, Delhi, an
 The "Others" category contributed the most revenue, followed by Makeyourtrip & Logtrip.
 # Ratings Analysis:
 Delhi had the highest rating (3.79), followed by Hyderabad (3.65), Mumbai (3.63), and Bangalore (3.41).
+
 Makeyourtrip and Logtrip performed better, while direct offline bookings had the lowest ratings.
+
 Presidential suites received the best ratings, indicating a preference for luxury accommodations.
 
 # 📊 EDA Techniques Used
