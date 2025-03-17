@@ -1,21 +1,21 @@
 # AtliQ-Hospitality-Analysis
 
-## 📌 Objective
+# 📌 Objective
 Analyzed hotel booking trends, customer behavior, revenue performance, and ratings using EDA techniques in Python.
 Identified key insights to optimize business strategies and maximize revenue.
 
 # 🔑 Key Insights
-# Occupancy Trends:
+## Occupancy Trends:
 Standard rooms had an average occupancy of 58.2%, while Presidential suites led with 59.3%.
-# City-wise Performance:
+## City-wise Performance:
 Delhi had the highest occupancy (61.6%), followed by Hyderabad, Mumbai, and Bangalore.
-# Booking Patterns:
+## Booking Patterns:
 Weekends (72.4%) had higher occupancy than weekdays (50.9%).
-# Revenue Insights:
+## Revenue Insights:
 Mumbai generated the highest revenue (₹668M), followed by Hyderabad, Delhi, and Bangalore.
-# Booking Platforms:
+## Booking Platforms:
 The "Others" category contributed the most revenue, followed by Makeyourtrip & Logtrip.
-# Ratings Analysis:
+## Ratings Analysis:
 Delhi had the highest rating (3.79), followed by Hyderabad (3.65), Mumbai (3.63), and Bangalore (3.41).
 
 Makeyourtrip and Logtrip performed better, while direct offline bookings had the lowest ratings.
