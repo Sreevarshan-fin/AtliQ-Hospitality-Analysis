@@ -1,6 +1,6 @@
 # AtliQ-Hospitality-Analysis
 
-# 📌 Objective
+## 📌 Objective
 Analyzed hotel booking trends, customer behavior, revenue performance, and ratings using EDA techniques in Python.
 Identified key insights to optimize business strategies and maximize revenue.
 
