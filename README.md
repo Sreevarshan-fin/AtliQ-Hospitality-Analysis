@@ -22,8 +22,11 @@ Presidential suites received the best ratings, indicating a preference for luxur
 
 # 📊 EDA Techniques Used
 Descriptive Statistics – Summarized key metrics (occupancy rate, revenue, ratings).
+
 Missing Value Handling – Used mean/median imputation for missing data.
+
 Outlier Detection – Identified anomalies in guest count, revenue, and room capacity.
+
 Segmentation Analysis – Grouped data by city, room category, and booking platform.
 
 # 🛠 Tools & Technologies
@@ -31,6 +34,7 @@ Python Libraries: Pandas, Matplotlib, Seaborn, NumPy
 
 # 📌 Conclusion
 Delhi had the highest occupancy, and weekends saw peak bookings.
+
 Luxury accommodations (Presidential suites) received the best ratings, indicating customer preference.
 # To boost revenue & customer satisfaction:
 Targeted promotions for high-rated platforms and room types.
