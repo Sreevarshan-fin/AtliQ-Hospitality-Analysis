@@ -115,11 +115,11 @@ The key objectives of this project were:
 ✔ **Improve direct offline booking experience** to increase ratings and trust.  
 
 ---
-# s Data Visualization. 🚀
+# Data Visualization. 🚀
 
-Revenue Analysis 
+**Revenue Analysis**
 ![Revenue_realized_by_group](https://github.com/user-attachments/assets/c410b013-7f60-437f-8f39-781999d6d17c)
 
-Rating Analysis
+**Rating Analysis**
 ![Ratings_given_by_group](https://github.com/user-attachments/assets/5cc1f3e4-2619-467a-9b0a-fc40a1adba70)
 
